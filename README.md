@@ -1,2 +1,4 @@
-ts3-luas
+Teamspeak 3 Lua Scripts
 ========
+
+Funscript
